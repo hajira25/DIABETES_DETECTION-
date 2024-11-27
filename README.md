@@ -47,12 +47,6 @@ It features a user-friendly web interface built with Streamlit Community Cloud, 
 ## Hosting 
 Hosting is done using RENDER.
 
-##Future Enhancements
-Integration with a database to store user data.
-Enhanced model for better accuracy.
-Visualizations of risk factors.
-
-
 
 ## Conclusion
 
