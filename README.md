@@ -44,14 +44,15 @@ It features a user-friendly web interface built with Streamlit Community Cloud, 
 
 ## Installation
 
-###Step 1: Clone the Repository
-Clone the repository to your local machine:
-    ```bash      
+### Step 1: Clone the Repository
+**Clone the repository to your local machine:**
+```bash      
 git clone <repository_url>
-cd Diabetes Detection ```
+cd Diabetes Detection
+```
 
-##Step 2: Set Up a Virtual Environment (Optional but Recommended)
-Create and activate a virtual environment:
+### Step 2: Set Up a Virtual Environment (Optional but Recommended)
+**Create and activate a virtual environment:**
 
 # Create a virtual environment
 ```bash
