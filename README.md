@@ -13,7 +13,20 @@ It features a user-friendly web interface built with Streamlit Community Cloud, 
 [Diabetes-Detection](https://diabetesdetection-ss.streamlit.app/)
 
 ## Project Structure and Description  
-- Remains same as above.
+
+- Diabetes Detection/
+│
+├── app.py                          # Main application file
+├── train_model.py                  # Script to train the model
+├── dataset/
+│   └── diabetes.csv                # Dataset for training
+├── templates/
+│   ├── index.html                  # Input form
+│   └── results.html                # Results display
+├── models/
+│   ├── diabetes_detection_model.h5  # Pre-trained model .h5 extension
+│   └── rf_model.pkl                # Random Forest model
+└── requirements.txt                # Dependencies
 
 ## Prerequisites
 
