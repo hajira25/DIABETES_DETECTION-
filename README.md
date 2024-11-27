@@ -45,14 +45,16 @@ It features a user-friendly web interface built with Streamlit Community Cloud, 
 ###Step 1: Clone the Repository
 Clone the repository to your local machine:
 
+   
+    ```bash
 git clone <repository_url>
 cd Diabetes Detection
 
-###Step 2: Set Up a Virtual Environment (Optional but Recommended)
+##Step 2: Set Up a Virtual Environment (Optional but Recommended)
 Create and activate a virtual environment:
 
 # Create a virtual environment
-python -m venv venv
+    ```bash python -m venv venv
 
 # Activate the virtual environment
 # On Windows
@@ -60,10 +62,12 @@ venv\Scripts\activate
 
 # On macOS/Linux
 source venv/bin/activate
+
 ### Step 3: Install Dependencies
 Install the required libraries:
-'''bash
- pip install -r requirements.txt
+
+     ```bash
+     pip install -r requirements.txt
 
 ### Step 4: Run the Application
 1. **Ensure you're in the project directory.**
